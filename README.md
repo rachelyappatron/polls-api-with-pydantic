@@ -2,6 +2,10 @@
 
 A modern polling application built with FastAPI and Pydantic, featuring Redis for data storage and real-time vote tracking.
 
+## 🚀 Live Demo
+
+**Try the API here**: [https://polls-api-with-pydantic.vercel.app/docs](https://polls-api-with-pydantic.vercel.app/docs#/)
+
 ## Features
 
 - 🗳️ **Create Polls**: Create polls with multiple choice options and expiration dates
